@@ -41,7 +41,7 @@ Durante os primeiros meses do meu estágio, minhas atividades e aprendizados se 
   
  **Habilidades Desenvolvidas:** análise de processos de negócios, levantamento de requisitos, comunicação com diferentes stakeholders, compreensão do ciclo de vida de desenvolvimento de software, testes de sistemas.
  
- **Status:** em fase de testes.
+ **Status:** finalizado.
 
 
 Os principais aprendizados deste período incluem a compreensão da complexidade do sistema SAP SD em um ambiente empresarial real, a importância da organização e comunicação no gerenciamento de projetos de TI e o desenvolvimento inicial da minha capacidade de análise de dados.
