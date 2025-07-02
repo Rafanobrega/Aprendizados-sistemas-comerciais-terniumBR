@@ -3,61 +3,81 @@
 ## Perfil
 
 * **Estudante de:** Análise e Desenvolvimento de Sistemas (4º Período)
-* **Atuação:** Estagiário no Time de Sistemas Comerciais, com foco no desenvolvimento de habilidades de Analista.
+* **Atuação:** Estagiário no Time de IT HR (Tecnologia da Informação - Recursos Humanos), com foco no desenvolvimento de habilidades de Analista.
 * **Período do Estágio:** 11/11/2024 – Contrato em andamento. 
+
+---
 
 ## Áreas de Atuação e Desenvolvimento
 
-Durante este estágio, estou desenvolvendo habilidades em diversas áreas cruciais para a função de Analista de Sistemas Comerciais, incluindo:
+Neste estágio, estou atuando no **setor IT HR**, responsável por prover suporte e soluções tecnológicas para a área de Recursos Humanos. As atividades buscam otimizar processos, garantir qualidade de dados e melhorar a experiência dos usuários internos.
 
-* **Gestão de Dados com SAP SD:**
-    * Extração, tratamento e análise de dados transacionais para geração de insights e relatórios.
-    * Elaboração e execução de consultas específicas para atender demandas de informação.
-    * Participação na fase de testes de novas implementações e correções no ambiente SAP SD.
-* **Gerenciamento de Projetos de TI:**
-    * Criação e manutenção de cronogramas de projetos, identificando marcos e dependências.
-    * Elaboração de relatórios de status (Status Reports) para comunicação do progresso aos stakeholders.
-    * Acompanhamento e participação em processos de homologação de sistemas e funcionalidades.
-    * Realização de follow-up com as equipes técnicas e de negócios para garantir o cumprimento de prazos.
-    * Interação com usuários para levantamento de requisitos e entendimento das necessidades do negócio.
-    * Acompanhamento do ciclo de desenvolvimento de software, colaborando com desenvolvedores ABAP para assegurar a entrega conforme o planejado.
+Minhas áreas de atuação e desenvolvimento incluem:
+
+* **Automação de Processos com Excel VBA:**
+    * Criação de relatórios automatizados para o RH, como macros em VBA para importação, formatação e enriquecimento de dados.
+    * Padronização de planilhas para reduzir erros manuais e agilizar o trabalho dos analistas.
+
+* **Suporte a Sistemas de Controle de Acesso:**
+    * Apoio na operação e manutenção do sistema de controle de ponto e acesso físico dos colaboradores.
+    * Resolução de inconsistências e ajustes no cadastro de usuários.
+
+* **Manutenção de Banco de Dados:**
+    * Análise e correção de dados duplicados ou inconsistentes relacionados a acessos.
+    * Apoio na estruturação e limpeza de bases de dados utilizadas pelo RH.
+
+* **Apoio a Demandas do Setor de RH:**
+    * Resolução de chamados e dúvidas técnicas.
+    * Proposição de melhorias para processos tecnológicos utilizados pelo time de RH.
+
+---
 
 ## Registro Detalhado de Atividades
 
-### Período de Novembro de 2024 a Abril de 2025: Visão Geral
+### Período a partir de Junho de 2025: Visão Geral
 
-Durante os primeiros meses do meu estágio, minhas atividades e aprendizados se concentraram principalmente em:
+Nesta nova fase do estágio, após a transição para o setor IT HR, minhas atividades passaram a focar em:
 
-* **Imersão no ambiente SAP SD:** Compreensão da estrutura do sistema, principais transações utilizadas pela área comercial e o fluxo de processos de vendas e faturamento.
-* **Desenvolvimento de habilidades de extração de dados:** Realização de diversas extrações de dados para apoiar análises pontuais, aprendendo a identificar as tabelas e campos relevantes.
-* **Apoio ao gerenciamento de projetos:** Participação em reuniões de acompanhamento, auxílio na organização de documentos e familiarização com as ferramentas de cronograma e status report utilizadas pela equipe.
-* **Interação com usuários:** Acompanhamento de reuniões de levantamento de necessidades e suporte na comunicação entre a área de negócios e a equipe de desenvolvimento.
-  
-  ## Projetos
+* **Desenvolvimento de Macros em VBA:** Automação de relatórios que exigiam manipulação manual, com destaque para o projeto de Relatório Macro desenvolvido para otimizar o fluxo de dados do RH.
+* **Suporte ao Controle de Acesso:** Apoio nas rotinas de manutenção do sistema, incluindo ajustes de permissões, atualização de cadastros e suporte a usuários.
+* **Correção de Dados:** Identificação e eliminação de registros duplicados em bancos de dados relacionados a controle de acesso e ponto.
+* **Interação com Usuários do RH:** Levantamento de necessidades, esclarecimento de dúvidas e explicação sobre o uso das novas soluções implantadas.
 
-### Automatização do Processo de Faturamento de Energia
+---
 
- **Descrição:** Atualmente estou envolvido no projeto de automatização do processo de faturamento de energia dentro da Ternium Brasil. Minha participação neste projeto inclui: levantamento de requisitos junto aos usuários, mapeamento do processo atual, auxílio na elaboração da especificação funcional, acompanhamento do desenvolvimento com a equipe ABAP, participação nos testes de homologação.
-  
- **Habilidades Desenvolvidas:** análise de processos de negócios, levantamento de requisitos, comunicação com diferentes stakeholders, compreensão do ciclo de vida de desenvolvimento de software, testes de sistemas.
- 
- **Status:** finalizado.
+## Projetos em Destaque
 
+### Relatório Macro (Excel VBA)
 
-Os principais aprendizados deste período incluem a compreensão da complexidade do sistema SAP SD em um ambiente empresarial real, a importância da organização e comunicação no gerenciamento de projetos de TI e o desenvolvimento inicial da minha capacidade de análise de dados.
+**Descrição:** Desenvolvimento de macro em VBA para automatizar a importação, formatação e enriquecimento de dados de relatórios do RH. A solução substituiu processos manuais, garantindo padronização, velocidade e menor risco de erro.
 
-#### Próximas Semanas
+**Habilidades Desenvolvidas:** Lógica de programação VBA, análise de requisitos, design de planilhas automatizadas, documentação de soluções.
 
-A partir desta semana, irei registrar as atividades semanalmente de forma mais detalhada.
+**Status:** Implementado e em uso.
+
+---
+
+### Suporte ao Sistema de Controle de Acesso
+
+**Descrição:** Apoio diário à operação do sistema de controle de ponto e acesso físico, realizando ajustes em cadastros de usuários e solucionando problemas técnicos, como acessos duplicados.
+
+**Habilidades Desenvolvidas:** Análise de dados cadastrais, entendimento de sistemas corporativos, suporte técnico ao usuário final.
+
+**Status:** Em andamento (atividade contínua).
+
+---
 
 ## Próximos Passos e Objetivos de Desenvolvimento
 
-* Aprofundar o conhecimento nas transações e funcionalidades do módulo SAP SD, com foco no processo de faturamento.
-* Aperfeiçoar as técnicas de levantamento de requisitos, buscando uma comunicação mais eficaz com os usuários finais.
-* Desenvolver uma compreensão mais detalhada do processo de desenvolvimento em ABAP, buscando entender a lógica por trás das soluções implementadas.
-* Explorar ferramentas de análise de dados para otimizar a interpretação das informações extraídas do SAP SD.
+* Aprimorar conhecimentos em VBA para entregar soluções mais robustas e fáceis de manter.
+* Aprofundar entendimento dos fluxos e sistemas de controle de ponto e acesso.
+* Melhorar capacidade de análise de dados para detectar e corrigir inconsistências mais rapidamente.
+* Desenvolver habilidades de documentação técnica e comunicação com usuários de negócio.
+
+---
 
 ## Informações de Contato
 
-* LinkedIn: https://www.linkedin.com/in/rafael-nobrega-9703311b0/
+* LinkedIn: [https://www.linkedin.com/in/rafael-nobrega-9703311b0/](https://www.linkedin.com/in/rafael-nobrega-9703311b0/)
 * E-mail: rafaelnbg.1999@gmail.com
+
